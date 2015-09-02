@@ -1,3 +1,10 @@
+3.17.2-b / 2015-09-02
+=====================
+
+  * deps: connect@fbarriga/connect#2.26.1-b"
+    - deps: connect-timeout@~1.7.0
+      - Fix memory leak
+
 3.17.2 / 2014-09-15
 ===================
 
